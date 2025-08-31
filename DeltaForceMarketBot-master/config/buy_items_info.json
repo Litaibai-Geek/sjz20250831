@@ -1,0 +1,16 @@
+{
+  "bullets": {
+    "12 Gauge": [
+      {
+        "name": "12 Gauge 8.5毫米鹿弹",
+        "ideal_price": 233,
+        "position": "2-2",
+        "want_to_buy": "true",
+        "one_time_buy_num": "high",
+        "buy_times_limit": 100,
+        "buyed_times": 0,
+        "active_window": { "start": "00:00", "end": "02:00" }
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+"bullets": {
+    "9x19mm": [
+      {
+        "name": "9x19mm PSO",
+        "base_price": 27,
+        "ideal_price": 30,
+        "position": "2-2",
+        "want_to_buy": "true",
+        "one_time_buy_num": "low",
+        "buy_times_limit": 5,
+        "buyed_times": 0
+      }
+    ],
+    "4.6x30mm": [
+      {
+        "name": "4.6x30mm FMJ SX",
+        "base_price": 1505,
+        "ideal_price": 1500,
+        "position": "1-2",
+        "want_to_buy": "false",
+        "one_time_buy_num": "low",
+        "buy_times_limit": 5,
+        "buyed_times": 0
+      }
+    ],
+    "12.7x55mm": [
+      {
+        "name": "12.7x55mm PD12双头弹",
+        "base_price": 2908,
+        "ideal_price": 2500,
+        "position": "1-2",
+        "want_to_buy": "false",
+        "one_time_buy_num": "low",
+        "buy_times_limit": 5,
+        "buyed_times": 0
+      }
+    ],
+    ".357 Magnum": [
+      {
+        "name": ".357 Magnum 9号霰射'鼠弹'",
+        "base_price": 185,
+        "ideal_price": 10,
+        "position": "2-1",
+        "want_to_buy": "false",
+        "one_time_buy_num": "low",
+        "buy_times_limit": 5,
+        "buyed_times": 0
+      }
+    ]
+  }
+  }
